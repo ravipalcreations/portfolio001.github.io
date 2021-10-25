@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+.nav-bar{
+    box-shadow: 3px 3px 3px rgb(46, 42, 42);
+    position: sticky !important;
+    /* color: white !important; */
+    
+}
+input{
+    border-radius: 20px;
+    border:1px solid rgb(17, 88, 116);
+    height: 30px;
+    color: black !important;
+    
+    
+}
+img{
+    float: right;
+}
+.khaby-position{
+    margin-top: 90px;
+}
+.container{
+    margin-top: 50px;
+}
+.pro{
+    margin-top: 100px;
+}
+.yo-men{
+    /* background-image: url("colo.jpg"); */
+    /* background-color: lightblue; */
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.uu-uu{
+    margin-left: 60px;
+}
+.oo{
+    float: left;
+    text-align: center;
+    /* color: black; */
+}
+.toto{
+    margin-right: 20px;
+}
+.patta:hover{
+    box-shadow: 9px 9px 3px grey;
+}
+h4{
+    margin-left: -400px;
+    color: white;
+}
+/* .drop{
+    float: left;
+    margin-left: 20px;
+} */
+
+.logo{
+    display: flex;
+    margin-left: 150px;
+}
