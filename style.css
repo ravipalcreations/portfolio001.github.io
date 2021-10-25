@@ -33,7 +33,7 @@ img{
 .yo-men{
     /* background-image: url("colo.jpg"); */
     /* background-color: lightblue; */
-    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    background-color:white smoke;
     background-size: contain;
     background-repeat: no-repeat;
 }
